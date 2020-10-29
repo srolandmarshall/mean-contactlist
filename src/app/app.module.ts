@@ -15,8 +15,8 @@ import { ContactListComponent } from './contacts/contact-list/contact-list.compo
   ],
   imports: [
     BrowserModule,
-    HttpModule,
-    FormsModule
+    FormsModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]
