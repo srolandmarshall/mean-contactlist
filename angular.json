@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mean-contactlist-angular2"
+    }
+  },
+  "defaultProject": "mean-contactlist-angular2",
+  "cli": {
+    "analytics": "d7afa5b5-a29b-4d5d-80fe-0c38ccedc429"
+  }
 }
